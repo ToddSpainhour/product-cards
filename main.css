@@ -21,10 +21,25 @@ background-color: black;
     border-color: lightblue;
     border-width: 1px; 
     width: 30%;
-    height: 250px;
+    /* height: 250px; */
     margin: 10px;
 }
 
-h2 {
+.product-card header {
     text-align: center;
+    border-style: dotted;
+    border-color: lightslategray;
+    border-radius: 1px;
 }
+
+.product-card p {
+    padding: 10px;
+    text-align: justify;
+}
+
+.product-card img {
+    width:75%;
+    /* position: relative; */
+}
+
+
