@@ -8,7 +8,7 @@ background-color: black;
     align-items: center;
     /* padding: 25px; */
     justify-content: flex-start;
-    background-color: white;
+    background-color: #CFD8DC;
     align-content: center;
     padding-left:5%;
     padding-right:5%;
@@ -23,6 +23,12 @@ background-color: black;
     width: 30%;
     /* height: 250px; */
     margin: 10px;
+    box-shadow: 3px 3px lightgrey;
+}
+
+.sold_out_image {
+    position: relative;
+    
 }
 
 .product-card header {
@@ -30,6 +36,7 @@ background-color: black;
     border-style: dotted;
     border-color: lightslategray;
     border-radius: 1px;
+    font-family: 'Oswald', sans-serif;
 }
 
 .product-card p {
@@ -90,4 +97,10 @@ background-color: black;
 
 ul {
     margin: 0%
+}
+
+
+img {
+    max-width: 33%;
+    max-height: 33%;
 }
