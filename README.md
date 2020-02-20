@@ -3,7 +3,7 @@
 ## Description: In this project, I created cards that display a product's name, image, description, avaliability, and other specifications such as size and price. The goal is to give the user an experience that responds to screen size by using flexbox. 
 
 ## Screenshots
-![Project Screenshot](/screenshots\product-cards-screenshot.jpg)
+![Project Screenshot](./screenshots\product-cards-screenshot.jpg)
 
 ## How To Run
 1. Clone down this repo.
